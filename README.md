@@ -1,4 +1,6 @@
-# Hi there 👋
+<p align="center">
+  <img src="./assets/github-profile-banner.png" width="100%" alt="Jason - 杰森的效率工坊">
+</p>
 
 I'm Jason. I create and explore practical workflows around AI, personal knowledge management, and productivity.
 
